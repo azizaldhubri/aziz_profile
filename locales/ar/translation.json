@@ -1,0 +1,31 @@
+ 
+{
+  "Aziz Aldhubri": "عزيز الضبري",
+  "about title":"تجربه",
+  "I'm turning ideas into reality.":"أنا احول الحلم الى حقيقة",
+  "To contact me via:":": للتواصل معي",
+  "I'm Aziz Al-Dhubri":"أنا عزيز الضبري، مطور واجهات أمامية أعمل على بناء تجارب ويب سلسة باستخدام أكواد نظيفة وتقنيات حديثة. كما أنني أكملت دورة تدريبية في Laravel، تمكنت من خلالها من تطوير واجهات خلفية متكاملة  لعدة مشاريع وربطها بقاعدة بيانات .",
+  "Hello There!":"مرحبا بك",
+  "Download Cv":"Cv تنزيل" ,
+  "HOME":"الرئيسية",
+  "ABOUT":"نبذة عنا",
+  "PROJECT":"المشاريع",
+  "Are You Ready":"هل أنت مستعد لبدء مشروعك بلمسة من السحر؟",
+ 
+  "Let's connect":"دعنا نتواصل ونجسد الأفكار ✨. أنا منفتح على فرص العمل بدوام كامل أو مستقل لإنشاء تجارب ويب مؤثرة",
+  "Works & Projects":"المشاريع والاعمال",
+  "Discover my projects":"اكتشف مشاريعي المصممة بعناية لتقديم تجارب ويب سلسة وجذابة",
+  "Hello! I’m Aziz Aldhubri":"مرحبًا! أنا عزيز الضبري، مطور واجهة المستخدم",
+
+   "Academic qualification":"المؤهل العلمي :حاصل على درجة الباكالاريوس نظم معلومات بنسبة جيد جدا من جامعة صنعاء",
+  "Training courses":"الدورات التدريبية",
+  "Course":"Course in data analysis, Html, CSS, Bootstrap, Laravel, React",
+
+  "I worked":"لقد عملت على العديد من المشاريع تحت إشراف مبرمج محترف.",
+
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  }
+}
+ 
