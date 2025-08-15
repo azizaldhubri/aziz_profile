@@ -83,7 +83,7 @@ export default function Projects(props) {
                       desc="Sample of an online store built using Redux, React.js, Bootstrap, and Localstorage"
                       />
                   <ProjectItem  
-                    src="/img1/www.PNG"
+                    src="/img1/www.png"
                     title="To Do list"
                     link="https://venerable-kelpie-769c57.netlify.app/"
                      imgClass="w-full   lg:h-60 md:h-48 xs:h-36 sm:h-60 sm:w-11/12"
