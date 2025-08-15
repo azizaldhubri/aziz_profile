@@ -17,11 +17,12 @@ export default function About({locale}) {
   return (
     // <div className="w-full flex justify-center items-center flex-col">
       <section id="About" >
-        <div className="w-full max-w-7xl flex flex-wrap justify-center gap-5 p-4"
+        <div  className="      overflow-auto  flex items-center md:items-stretch lg:items-stretch  flex-col lg:flex-row md:flex-row   
+           justify-center p-4 gap-6    mb-3 pb-3    "
         >
 
           {/* Card 1 - Profile */}
-          <Card className="  rounded-lg p-4 flex flex-col items-center gap-4 w-80 sm:w-96 m-2 mt-4 "
+          <Card className=" w-11/12  md:w-4/12 lg:w-4/12  sm:w-12/12   rounded-lg p-4 flex flex-col items-center gap-4   m-2 mt-4"
            style={{  boxShadow:' 1px 2px 4px 8px rgb(11 11 11 / 39%)  '}}>
             <img
               // src={require('../imges/aziz.jpg')}
@@ -56,12 +57,12 @@ export default function About({locale}) {
           </Card>
 
           {/* Card 2 - Info */}
-          <Card className="  box_shadow rounded-lg p-6 flex flex-col gap-4 w-full md:w-[50%]  mt-4  text-lg" 
+          <Card className=" box_shadow rounded-lg p-6 flex flex-col gap-4    w-11/12  md:w-8/12 lg:w-8/12 mt-4 text-2xl" 
           sx={{}}
            style={{  boxShadow:' 1px 2px 4px 8px rgb(11 11 11 / 39%)  ',
             direction:locale==='ar'&& 'rtl'
            }}>
-            <p className="text-2xl font-semibold">{t("Hello! I’m Aziz Aldhubri")}</p>
+            <p className="text-3xl font-semibold">{t("Hello! I’m Aziz Aldhubri")}</p>
             <p>{t("Academic qualification")}</p>
             <p>{t("Training courses")}</p>
             <p>{t("Course")}</p>
